@@ -1,6 +1,9 @@
 # data #
 #########
 /notebooks/data/
+/notebooks/__pycache__/
+/notebooks/old/
+/notebooks/.ipynb_checkpoints
 
 
 #COMMON
